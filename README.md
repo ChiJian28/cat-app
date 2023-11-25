@@ -25,11 +25,11 @@
   * Utilize the search function
  
 # Previews
-![Sign Up Page](https://github.com/ChiJian28/cat-app/assets/109941092/51f65db0-7472-4205-9662-b7426b492d5d)
-![Login Page](https://github.com/ChiJian28/cat-app/assets/109941092/33a1aad4-13af-4fdd-a859-7ff5aed04803)
-![Home Page](https://github.com/ChiJian28/cat-app/assets/109941092/2f4b8e34-017e-4e3b-812b-7cb50745deba)
-![Sharing moments Page](https://github.com/ChiJian28/cat-app/assets/109941092/7f48a191-2695-48e7-b78e-6cd875f2a313)
-![Info Page](https://github.com/ChiJian28/cat-app/assets/109941092/1c8d927f-4e8b-462f-9d54-7670675cd540)
+![Sign Up Page](https://github.com/ChiJian28/cat-app/assets/109941092/4ca0c87c-b339-4daf-b570-fa7f2a759922)
+![Login Page](https://github.com/ChiJian28/cat-app/assets/109941092/88139345-a954-41ee-b07d-81a180046bc3)
+![Home Page](https://github.com/ChiJian28/cat-app/assets/109941092/5d4e4a72-1c6d-40f0-b145-32d6d00d9bb1)
+![Sharing moments Page](https://github.com/ChiJian28/cat-app/assets/109941092/3dd9cabb-66f6-436a-bf20-8b4917906ba0)
+![Info Page](https://github.com/ChiJian28/cat-app/assets/109941092/42ddef84-becc-4ca9-bd73-a7806afbff25)
 
 # Summary
 👉 If you like this project, give it a star ✨ and share 👨🏻‍💻 it to your friends 👈  

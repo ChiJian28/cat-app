@@ -31,5 +31,8 @@
 ![Sharing moments Page](https://github.com/ChiJian28/cat-app/assets/109941092/3dd9cabb-66f6-436a-bf20-8b4917906ba0)
 ![Info Page](https://github.com/ChiJian28/cat-app/assets/109941092/42ddef84-becc-4ca9-bd73-a7806afbff25)
 
+# License
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
+
 # Summary
 👉 If you like this project, give it a star ✨ and share 👨🏻‍💻 it to your friends 👈  
